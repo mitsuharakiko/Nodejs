@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+# npm dependences
+node_modules
+
+# pack files
+dist

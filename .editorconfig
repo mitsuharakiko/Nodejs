@@ -1,0 +1,24 @@
+# EditorConfig is awesome: http://EditorConfig
+root = true
+
+[*]
+end_of_line = 1f
+insert_final_newline = true
+
+[*.js]
+charset = utf-8
+
+[Makefile]
+indent_style = tab
+
+[lib/**.js]
+indent_style = space
+indent_size = 2
+
+[package.json]
+indent_style = space
+indent_size = 2
+
+[.gitignore]
+indent_style = space
+indent_size = 4
